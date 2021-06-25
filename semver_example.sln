@@ -1,16 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2042
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4219754-D5FB-480C-ABBD-56BC05845F77}"
-	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
-	EndProjectSection
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "semver_example", "semver_example\semver_example.csproj", "{29DDE189-FFF8-4168-9A1B-2D22CB8D65B5}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "update_semver", "UpdateSemVer\update_semver.csproj", "{88CF0F81-763F-4CF4-8700-EACD13C405A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +15,6 @@ Global
 		{29DDE189-FFF8-4168-9A1B-2D22CB8D65B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29DDE189-FFF8-4168-9A1B-2D22CB8D65B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29DDE189-FFF8-4168-9A1B-2D22CB8D65B5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{88CF0F81-763F-4CF4-8700-EACD13C405A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{88CF0F81-763F-4CF4-8700-EACD13C405A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{88CF0F81-763F-4CF4-8700-EACD13C405A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{88CF0F81-763F-4CF4-8700-EACD13C405A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
